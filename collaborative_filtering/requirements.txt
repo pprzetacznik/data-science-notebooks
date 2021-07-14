@@ -1,0 +1,4 @@
+pytest
+pytest-cov
+requests==2.25.0
+sphinx
